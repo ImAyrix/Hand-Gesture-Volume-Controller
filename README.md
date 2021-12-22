@@ -3,6 +3,9 @@
 - 👆 Finger recognition
 - 🔊 you can decrease and increase volume
 
+# Demo
+![GIF](media-demo/demo.gif)
+
 # Code
 Firstly I have created a Module "HandTrackingModule.py", this file contains the code which detects our hand, in this file I have created functions for specific tasks in a "class handDetector()". Short description of functions are -
 
